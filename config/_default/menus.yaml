@@ -1,0 +1,56 @@
+leftnav:
+- identifier: db163bf1-a90a-e532-96fe-30112ab49ddf
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 18c9593e-319e-dae8-0d72-de49534baf31
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: ccb69fa2-6392-7ade-d774-c12a6733de1e
+  name: Lecture Notes and Videos
+  pageRef: /video_galleries/lecture-notes-and-videos
+  weight: 30
+- identifier: c3a3632f-bc90-2334-a8f7-d3a17dea9d6e
+  name: Homework
+  pageRef: /pages/homework
+  weight: 40
+- identifier: 7b8fccb6-66ce-bcd5-bd13-45f263238c62
+  name: Projects
+  pageRef: /pages/projects/
+  weight: 50
+- identifier: baa63270-fb3f-19da-173a-59db92f31b56
+  name: Origins of ESD.051 Engineering Innovation and Design
+  pageRef: /resources/origins-of-esd-051-engineering-innovation-and-design-1
+  parent: 18c9593e-319e-dae8-0d72-de49534baf31
+  weight: 10
+- identifier: 41b3be43-38e2-3901-586a-93f8c2d01fb7
+  name: Teaching Design Thinking
+  pageRef: /resources/teaching-design-thinking
+  parent: 18c9593e-319e-dae8-0d72-de49534baf31
+  weight: 20
+- identifier: c614d4c9-a094-829c-b171-38761af39ad1
+  name: What Happens in Class?
+  pageRef: /resources/what-happens-in-class-1
+  parent: 18c9593e-319e-dae8-0d72-de49534baf31
+  weight: 30
+- identifier: 51d80506-cd0a-4d55-2bce-911e6aea50fd
+  name: Interacting with Students Online
+  pageRef: /resources/interacting-with-students-online
+  parent: 18c9593e-319e-dae8-0d72-de49534baf31
+  weight: 40
+- identifier: 4f58504f-5903-b133-992a-0fdf78a2f9e1
+  name: Grading a Design Course
+  pageRef: /resources/grading-a-design-course
+  parent: 18c9593e-319e-dae8-0d72-de49534baf31
+  weight: 50
+- identifier: 94593f6d-f92a-0e3a-8e25-a43adb893bc4
+  name: Individual Project
+  pageRef: /pages/projects/individual-project
+  parent: 7b8fccb6-66ce-bcd5-bd13-45f263238c62
+  weight: 10
+- identifier: 058df135-3f83-c1f0-b61c-9c85c9b23f51
+  name: Group Project
+  pageRef: /pages/projects/group-project
+  parent: 7b8fccb6-66ce-bcd5-bd13-45f263238c62
+  weight: 20
